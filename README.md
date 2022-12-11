@@ -1,3 +1,3 @@
 # python
 
-## This directory contains python related tips and tricks
+## This directory contains Coding snipets for different python related topics
